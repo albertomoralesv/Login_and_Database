@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/befo_/Desktop/Practicas Android/Practica4-2/app/src/main/res/drawable/borders.xml" value="0.122" />
+        <entry key="..\:/Users/befo_/Desktop/Practicas Android/Practica4-2/app/src/main/res/drawable/buttons.xml" value="0.1965" />
+        <entry key="..\:/Users/befo_/Desktop/Practicas Android/Practica4-2/app/src/main/res/drawable/launch_screen.xml" value="0.121" />
+        <entry key="..\:/Users/befo_/Desktop/Practicas Android/Practica4-2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/befo_/Desktop/Practicas Android/Practica4-2/app/src/main/res/layout/activity_principal.xml" value="0.17" />
+        <entry key="..\:/Users/befo_/Desktop/Practicas Android/Practica4-2/app/src/main/res/layout/agregar_editar_pelicula.xml" value="0.25" />
+        <entry key="..\:/Users/befo_/Desktop/Practicas Android/Practica4-2/app/src/main/res/layout/fragment_agregar_pelicula.xml" value="0.2" />
+        <entry key="..\:/Users/befo_/Desktop/Practicas Android/Practica4-2/app/src/main/res/layout/item.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
